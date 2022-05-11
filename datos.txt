@@ -4,5 +4,8 @@
 15.0 euros equivale a 0.00041194 XBT
 150.0 euros equivale a 0.00411661 XBT
 15000.0 euros equivale a 0.41065176 XBT
+555.0 euros equivale a 0.01484290 XBT
+5000.0 euros equivale a 0.13370654 XBT
+50000.0 euros equivale a 1.33737828 XBT
 
-
+60000.0 euros equivale a 2.17628646 XBT

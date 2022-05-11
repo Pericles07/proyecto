@@ -18,7 +18,7 @@ lbl_img = tkinter.Label(interfaz, image = img)
 def conv_bitcoin():
     conv_bitcoin = cantidad_euros.get() / float(cantidad_bitcoin)
     messagebox.showinfo(title="conversor de euros a bitcoin ", message=str( cantidad_euros.get())+" euros equivale a "+ (str("{:.8f}".format(conv_bitcoin)+ " XBT")))
-    
+   
 #funcion para adquirir el valor del bitcoin en tiempo real a travez de una API
 def valor_bitcoin():
     url = requests.get("https://www.bitstamp.net/api/v2/ticker/btceur")

@@ -1,3 +1,2 @@
-Hola, en primer lugar agradecer a todo el equipo de codigofacilito por todo lo que nos han enseñado en estos meses.
-Mi proyecto consiste en crear un conversor de euros a bitcoin,  lo primero e  creado una interfaz a travez de la libreria tkinter, despues e creado una funcion para obtener el valor en tiempo real del bitcoin a travez de una api, introducimos manualmente la cantidad de euros que queremos convertir a bitcoin, cuando pinchamos en la interfaz el boton "convertir", el programa nos muestra en pantalla el valor de los euros introducidos en bitcoin.
-Despues he creado un archivo.txt para que almacene el resultado de la conversion cada que vez que usemos el boton de convertir.
+proyecto creado para el bootcamp de código Facilito "introducción a la programación".
+En mi proyecto he creado un conversor de monedas, nos muestra el valor del bitcoin en tiempo real y nos muestra el valor en la cantidad de euros que deseemos saber.
